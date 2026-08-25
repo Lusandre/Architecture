@@ -9,12 +9,11 @@ Una landing page moderna, completamente responsiva y optimizada, diseñada para 
 🚀 **[Ver el proyecto en vivo aquí](https://lusandre.github.io/Architecture/)**
 
 ---
-
 ## 📱 Vistazo del Proyecto
 
-*(Te recomiendo tomar una captura de pantalla de tu página web, guardarla en tu carpeta `img/` como `preview.jpg` y descomentar la siguiente línea para que se vea aquí)*
 
-<!-- ![Preview de Arquitectura Bosque](img/preview.jpg) -->
+[Preview de Arquitectura Bosque](img/preview.png)
+
 
 ---
 
